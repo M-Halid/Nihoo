@@ -1,0 +1,104 @@
+body{
+    background-color: #85144bff;
+}
+label{
+    color: aliceblue;
+}
+#lah{
+   background-color: aliceblue;
+    color: #85144bff;
+    opacity: 0;
+    
+    
+}
+#vdo{
+    display: none;
+    margin-top: 20px;
+}
+#vdo1{
+    display: none;
+    margin-top: 20px;
+
+}
+
+#mekteb{
+    width: 400px;
+
+}
+
+
+#bing{
+    width: 400px;
+}
+.selam{
+    text-align: center;
+    margin: auto;
+    color:#5bc0deff;
+}
+
+.form-control{
+    width: 300px;
+}
+.card{
+    margin-top: 20px;
+}
+#card1{
+display: none;
+}
+#card2{
+    display: none;
+
+}
+#card3{
+    display: none;
+
+}
+#card4{
+    display: none;
+
+}
+#card5{
+    display: none;
+
+}
+#card6{
+    display: none;
+    
+}
+#card7{
+    display: none;
+
+}
+#card8{
+    display: none;
+
+}
+#card9{
+    display: none;
+
+}
+#card10{
+    display: none;
+
+}
+#card11{
+    display: none;
+
+}
+#card12{
+    display: none;
+
+}
+#card13{
+    display: none;
+
+}
+#card14{
+    display: none;
+
+}
+#card15{
+    display: none;
+
+}
+
